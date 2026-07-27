@@ -205,20 +205,6 @@ Keep the metadata JSON files, seed, dependency versions, model configuration,
 and checkpoint together. The test set is intentionally persisted in
 `test_fixed.json` to prevent evaluation-time resampling.
 
-## Citation
 
-```bibtex
-@inproceedings{yu2020bdd100k,
-  title     = {BDD100K: A Diverse Driving Dataset for Heterogeneous Multitask Learning},
-  author    = {Yu, Fisher and Chen, Haofeng and Wang, Xin and Xian, Wenqi and
-               Chen, Yingying and Liu, Fangchen and Madhavan, Vashisht and
-               Darrell, Trevor},
-  booktitle = {CVPR},
-  year      = {2020}
-}
-```
 
-## License
 
-Add a code license before publishing. The code license does not replace the
-separate BDD100K dataset terms.
