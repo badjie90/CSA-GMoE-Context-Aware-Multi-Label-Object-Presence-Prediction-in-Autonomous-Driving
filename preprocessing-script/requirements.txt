@@ -1,0 +1,6 @@
+torch>=2.11
+torchvision>=0.22
+timm>=1.0.15
+torchmetrics>=1.9
+pillow>=10.0
+numpy>=1.26
